@@ -10,4 +10,6 @@
 
 ## How to run
 
+- Make sure to set active chat of the targeted person
+- go get
 - go run main.go
